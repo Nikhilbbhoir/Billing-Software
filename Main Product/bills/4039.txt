@@ -1,0 +1,14 @@
+	 Welcome Webcode Retail 
+
+ Bill Number : 4039
+ Customer Name :nbb
+ Phone Number : 8369539754
+ =====================================
+ Products		Qty		Price
+ =====================================
+Rice 		9		1620
+Food Oil		9		1620
+ -----------------------------------
+ Grocery Tax		Rs. 324.0
+ Total Bill :		 Rs.3564.0
+ ---------------------------------

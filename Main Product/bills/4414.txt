@@ -1,0 +1,14 @@
+	 Welcome Webcode Retail 
+
+ Bill Number : 4414
+ Customer Name :njj
+ Phone Number : 45658866
+ =====================================
+ Products		Qty		Price
+ =====================================
+Face Cream 		9		1080
+Face Wash 		9		540
+ -----------------------------------
+ Cosmetic Tax		Rs. 81.0
+ Total Bill :		 Rs.1701.0
+ ---------------------------------

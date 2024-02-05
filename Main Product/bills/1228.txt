@@ -1,0 +1,11 @@
+	 Welcome Webcode Retail 
+
+ Bill Number : 1228
+ Customer Name :hth
+ Phone Number : jy
+ =====================================
+ Products		Qty		Price
+ =====================================
+ -----------------------------------
+ Total Bill :		 Rs.0.0
+ ---------------------------------

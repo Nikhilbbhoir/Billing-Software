@@ -1,0 +1,25 @@
+	 Welcome Webcode Retail 
+
+ Bill Number : 7816
+ Customer Name :NBB
+ Phone Number : 8369567887
+ ==============================================
+ Products		Qty		Price
+ ==============================================
+ Bath Soap 		8		320
+ Hair Gel 		1		140
+ Body Lotion 		1		180
+ Rice 			1		180
+ Food Oil		1		180
+ Daal 			1		60
+ Wheat 			1		240
+ Sugar 			1		54
+ Coca Cola 		6		360
+ Thumbs UP 		4		160
+ Limca 			1		50
+ ----------------------------------------------
+ Cosmetic Tax		Rs. 32.0
+ Grocery Tax		Rs. 71.4
+ Cold Drink Tax		Rs. 28.5
+ Total Bill :		 Rs.2055.9
+ ----------------------------------------------

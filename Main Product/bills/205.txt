@@ -1,0 +1,15 @@
+	 Welcome Webcode Retail 
+
+ Bill Number : 205
+ Customer Name :bnb
+ Phone Number : 5312
+ =====================================
+ Products		Qty		Price
+ =====================================
+Bath Soap 		9		360
+Face Cream 		100		12000
+Face Wash 		513		30780
+ -----------------------------------
+ Cosmetic Tax		Rs. 2157.0
+ Total Bill :		 Rs.45297.0
+ ---------------------------------

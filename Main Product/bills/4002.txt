@@ -1,0 +1,18 @@
+	 Welcome Webcode Retail 
+
+ Bill Number : 4002
+ Customer Name :nbb
+ Phone Number : 8369539706
+ =====================================
+ Products		Qty		Price
+ =====================================
+Rice 		2		360
+Food Oil		37		6660
+Daal 		4		240
+Wheat 		4		960
+Sugar 		4		216
+Tea Powder 		4		600
+ -----------------------------------
+ Grocery Tax		Rs. 903.6
+ Total Bill :		 Rs.9939.6
+ ---------------------------------

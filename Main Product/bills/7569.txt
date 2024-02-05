@@ -1,0 +1,13 @@
+	 Welcome Webcode Retail 
+
+ Bill Number : 7569
+ Customer Name :joe
+ Phone Number : 5645551
+ =====================================
+ Products		Qty		Price
+ =====================================
+Coca Cola 		666		39960
+ -----------------------------------
+ Cold Drink Tax		Rs. 1998.0
+ Total Bill :		 Rs.41958.0
+ ---------------------------------

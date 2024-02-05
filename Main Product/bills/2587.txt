@@ -1,0 +1,18 @@
+	 Welcome Webcode Retail 
+
+ Bill Number : 2587
+ Customer Name :nikhil
+ Phone Number : 8132
+ =====================================
+ Products		Qty		Price
+ =====================================
+Frooti 		4609		276540
+Coca Cola 		64		3840
+Sprite 		1		45
+Thumbs UP 		9		360
+Limca 		1		50
+Maaza 		8		480
+ -----------------------------------
+ Cold Drink Tax		Rs. 14065.75
+ Total Bill :		 Rs.295380.75
+ ---------------------------------
